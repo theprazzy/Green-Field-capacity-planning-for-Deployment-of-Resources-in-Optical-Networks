@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<network description="" name="" currentDate="1745412693829" currentPlotNodeLayout="" cache_definedPlotNodeLayouts="" version="6" nextElementId="27">
+	<node id="2" description="" name="no-name-0" xCoord="0.0" yCoord="0.0" mapLayout2NodeXYPositionMap=" 0.0 0.0" population="0.0" isUp="true" layersWithIconsDefined="">
+	</node>
+	<node id="3" description="" name="no-name-1" xCoord="0.0" yCoord="0.0" mapLayout2NodeXYPositionMap=" 0.0 0.0" population="0.0" isUp="true" layersWithIconsDefined="">
+	</node>
+	<node id="4" description="" name="no-name-2" xCoord="0.0" yCoord="0.0" mapLayout2NodeXYPositionMap=" 0.0 0.0" population="0.0" isUp="true" layersWithIconsDefined="">
+	</node>
+	<node id="5" description="" name="no-name-3" xCoord="0.0" yCoord="0.0" mapLayout2NodeXYPositionMap=" 0.0 0.0" population="0.0" isUp="true" layersWithIconsDefined="">
+	</node>
+	<node id="6" description="" name="no-name-4" xCoord="0.0" yCoord="0.0" mapLayout2NodeXYPositionMap=" 0.0 0.0" population="0.0" isUp="true" layersWithIconsDefined="">
+	</node>
+	<layer id="1" description="" name="Layer 0" isDefaultLayer="true" linkCapacityUnitsName="" demandTrafficUnitsName="">
+		<demand id="7" description="" name="Demand-0" ingressNodeId="2" egressNodeId="3" offeredTraffic="57.793961878874576" intendedRecoveryType="NOTSPECIFIED" routingType="SOURCE_ROUTING" bidirectionalPairId="-1" maximumAcceptableE2EWorstCaseLatencyInMs="-1.0" offeredTrafficGrowthFactorPerPeriodZeroIsNoGrowth="0.0" monitoredOrForecastedTraffics="" trafficPredictor="" qosType="">
+		</demand>
+		<demand id="8" description="" name="Demand-1" ingressNodeId="2" egressNodeId="4" offeredTraffic="71.82484721123045" intendedRecoveryType="NOTSPECIFIED" routingType="SOURCE_ROUTING" bidirectionalPairId="-1" maximumAcceptableE2EWorstCaseLatencyInMs="-1.0" offeredTrafficGrowthFactorPerPeriodZeroIsNoGrowth="0.0" monitoredOrForecastedTraffics="" trafficPredictor="" qosType="">
+		</demand>
+		<demand id="9" description="" name="Demand-2" ingressNodeId="2" egressNodeId="5" offeredTraffic="90.49061769611473" intendedRecoveryType="NOTSPECIFIED" routingType="SOURCE_ROUTING" bidirectionalPairId="-1" maximumAcceptableE2EWorstCaseLatencyInMs="-1.0" offeredTrafficGrowthFactorPerPeriodZeroIsNoGrowth="0.0" monitoredOrForecastedTraffics="" trafficPredictor="" qosType="">
+		</demand>
+		<demand id="10" description="" name="Demand-3" ingressNodeId="2" egressNodeId="6" offeredTraffic="64.09519358920193" intendedRecoveryType="NOTSPECIFIED" routingType="SOURCE_ROUTING" bidirectionalPairId="-1" maximumAcceptableE2EWorstCaseLatencyInMs="-1.0" offeredTrafficGrowthFactorPerPeriodZeroIsNoGrowth="0.0" monitoredOrForecastedTraffics="" trafficPredictor="" qosType="">
+		</demand>
+		<demand id="11" description="" name="Demand-4" ingressNodeId="3" egressNodeId="2" offeredTraffic="57.20519123855782" intendedRecoveryType="NOTSPECIFIED" routingType="SOURCE_ROUTING" bidirectionalPairId="-1" maximumAcceptableE2EWorstCaseLatencyInMs="-1.0" offeredTrafficGrowthFactorPerPeriodZeroIsNoGrowth="0.0" monitoredOrForecastedTraffics="" trafficPredictor="" qosType="">
+		</demand>
+		<demand id="12" description="" name="Demand-5" ingressNodeId="3" egressNodeId="4" offeredTraffic="5.965419641683809" intendedRecoveryType="NOTSPECIFIED" routingType="SOURCE_ROUTING" bidirectionalPairId="-1" maximumAcceptableE2EWorstCaseLatencyInMs="-1.0" offeredTrafficGrowthFactorPerPeriodZeroIsNoGrowth="0.0" monitoredOrForecastedTraffics="" trafficPredictor="" qosType="">
+		</demand>
+		<demand id="13" description="" name="Demand-6" ingressNodeId="3" egressNodeId="5" offeredTraffic="28.112014142735916" intendedRecoveryType="NOTSPECIFIED" routingType="SOURCE_ROUTING" bidirectionalPairId="-1" maximumAcceptableE2EWorstCaseLatencyInMs="-1.0" offeredTrafficGrowthFactorPerPeriodZeroIsNoGrowth="0.0" monitoredOrForecastedTraffics="" trafficPredictor="" qosType="">
+		</demand>
+		<demand id="14" description="" name="Demand-7" ingressNodeId="3" egressNodeId="6" offeredTraffic="20.951898788870274" intendedRecoveryType="NOTSPECIFIED" routingType="SOURCE_ROUTING" bidirectionalPairId="-1" maximumAcceptableE2EWorstCaseLatencyInMs="-1.0" offeredTrafficGrowthFactorPerPeriodZeroIsNoGrowth="0.0" monitoredOrForecastedTraffics="" trafficPredictor="" qosType="">
+		</demand>
+		<demand id="15" description="" name="Demand-8" ingressNodeId="4" egressNodeId="2" offeredTraffic="1.2995152371608876" intendedRecoveryType="NOTSPECIFIED" routingType="SOURCE_ROUTING" bidirectionalPairId="-1" maximumAcceptableE2EWorstCaseLatencyInMs="-1.0" offeredTrafficGrowthFactorPerPeriodZeroIsNoGrowth="0.0" monitoredOrForecastedTraffics="" trafficPredictor="" qosType="">
+		</demand>
+		<demand id="16" description="" name="Demand-9" ingressNodeId="4" egressNodeId="3" offeredTraffic="31.08595660835852" intendedRecoveryType="NOTSPECIFIED" routingType="SOURCE_ROUTING" bidirectionalPairId="-1" maximumAcceptableE2EWorstCaseLatencyInMs="-1.0" offeredTrafficGrowthFactorPerPeriodZeroIsNoGrowth="0.0" monitoredOrForecastedTraffics="" trafficPredictor="" qosType="">
+		</demand>
+		<demand id="17" description="" name="Demand-10" ingressNodeId="4" egressNodeId="5" offeredTraffic="91.66900628176863" intendedRecoveryType="NOTSPECIFIED" routingType="SOURCE_ROUTING" bidirectionalPairId="-1" maximumAcceptableE2EWorstCaseLatencyInMs="-1.0" offeredTrafficGrowthFactorPerPeriodZeroIsNoGrowth="0.0" monitoredOrForecastedTraffics="" trafficPredictor="" qosType="">
+		</demand>
+		<demand id="18" description="" name="Demand-11" ingressNodeId="4" egressNodeId="6" offeredTraffic="45.16654055530589" intendedRecoveryType="NOTSPECIFIED" routingType="SOURCE_ROUTING" bidirectionalPairId="-1" maximumAcceptableE2EWorstCaseLatencyInMs="-1.0" offeredTrafficGrowthFactorPerPeriodZeroIsNoGrowth="0.0" monitoredOrForecastedTraffics="" trafficPredictor="" qosType="">
+		</demand>
+		<demand id="19" description="" name="Demand-12" ingressNodeId="5" egressNodeId="2" offeredTraffic="44.185247985056705" intendedRecoveryType="NOTSPECIFIED" routingType="SOURCE_ROUTING" bidirectionalPairId="-1" maximumAcceptableE2EWorstCaseLatencyInMs="-1.0" offeredTrafficGrowthFactorPerPeriodZeroIsNoGrowth="0.0" monitoredOrForecastedTraffics="" trafficPredictor="" qosType="">
+		</demand>
+		<demand id="20" description="" name="Demand-13" ingressNodeId="5" egressNodeId="3" offeredTraffic="25.546077378407066" intendedRecoveryType="NOTSPECIFIED" routingType="SOURCE_ROUTING" bidirectionalPairId="-1" maximumAcceptableE2EWorstCaseLatencyInMs="-1.0" offeredTrafficGrowthFactorPerPeriodZeroIsNoGrowth="0.0" monitoredOrForecastedTraffics="" trafficPredictor="" qosType="">
+		</demand>
+		<demand id="21" description="" name="Demand-14" ingressNodeId="5" egressNodeId="4" offeredTraffic="6.567330655749162" intendedRecoveryType="NOTSPECIFIED" routingType="SOURCE_ROUTING" bidirectionalPairId="-1" maximumAcceptableE2EWorstCaseLatencyInMs="-1.0" offeredTrafficGrowthFactorPerPeriodZeroIsNoGrowth="0.0" monitoredOrForecastedTraffics="" trafficPredictor="" qosType="">
+		</demand>
+		<demand id="22" description="" name="Demand-15" ingressNodeId="5" egressNodeId="6" offeredTraffic="27.039553199750358" intendedRecoveryType="NOTSPECIFIED" routingType="SOURCE_ROUTING" bidirectionalPairId="-1" maximumAcceptableE2EWorstCaseLatencyInMs="-1.0" offeredTrafficGrowthFactorPerPeriodZeroIsNoGrowth="0.0" monitoredOrForecastedTraffics="" trafficPredictor="" qosType="">
+		</demand>
+		<demand id="23" description="" name="Demand-16" ingressNodeId="6" egressNodeId="2" offeredTraffic="98.95527084970836" intendedRecoveryType="NOTSPECIFIED" routingType="SOURCE_ROUTING" bidirectionalPairId="-1" maximumAcceptableE2EWorstCaseLatencyInMs="-1.0" offeredTrafficGrowthFactorPerPeriodZeroIsNoGrowth="0.0" monitoredOrForecastedTraffics="" trafficPredictor="" qosType="">
+		</demand>
+		<demand id="24" description="" name="Demand-17" ingressNodeId="6" egressNodeId="3" offeredTraffic="7.875633262523829" intendedRecoveryType="NOTSPECIFIED" routingType="SOURCE_ROUTING" bidirectionalPairId="-1" maximumAcceptableE2EWorstCaseLatencyInMs="-1.0" offeredTrafficGrowthFactorPerPeriodZeroIsNoGrowth="0.0" monitoredOrForecastedTraffics="" trafficPredictor="" qosType="">
+		</demand>
+		<demand id="25" description="" name="Demand-18" ingressNodeId="6" egressNodeId="4" offeredTraffic="1.0564965270294935" intendedRecoveryType="NOTSPECIFIED" routingType="SOURCE_ROUTING" bidirectionalPairId="-1" maximumAcceptableE2EWorstCaseLatencyInMs="-1.0" offeredTrafficGrowthFactorPerPeriodZeroIsNoGrowth="0.0" monitoredOrForecastedTraffics="" trafficPredictor="" qosType="">
+		</demand>
+		<demand id="26" description="" name="Demand-19" ingressNodeId="6" egressNodeId="5" offeredTraffic="23.114227271911442" intendedRecoveryType="NOTSPECIFIED" routingType="SOURCE_ROUTING" bidirectionalPairId="-1" maximumAcceptableE2EWorstCaseLatencyInMs="-1.0" offeredTrafficGrowthFactorPerPeriodZeroIsNoGrowth="0.0" monitoredOrForecastedTraffics="" trafficPredictor="" qosType="">
+		</demand>
+		<sourceRouting>
+		</sourceRouting>
+		<hopByHopRouting>
+		</hopByHopRouting>
+	</layer>
+</network>
